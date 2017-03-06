@@ -34,7 +34,7 @@
             this.picBoxMainIcon = new System.Windows.Forms.PictureBox();
             this.picBoxExit = new System.Windows.Forms.PictureBox();
             this.lblHeader = new System.Windows.Forms.Label();
-            this.Menu = new System.Windows.Forms.Panel();
+            this.Menu = new System.Windows.Forms.DoubleBufferPanel();
             this.pnlObjectProps = new System.Windows.Forms.Panel();
             this.trkBarHeight = new System.Windows.Forms.TrackBar();
             this.trkBarWidth = new System.Windows.Forms.TrackBar();
